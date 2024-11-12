@@ -1,0 +1,122 @@
+export const translations = {
+  en: {
+    title: "Job Search Hub",
+    subtitle: "By recruiting professionals for job seekers",
+    howToUse: "How to Use This Tool",
+    disclaimer: "All searches are executed through Google Search. This project is not affiliated with Google.",
+    customizeSearchTitles: "Customize Job Titles",
+    executeSearch: "Execute Search",
+    step1: "1. Customize Job Titles:",
+    step1Details: "Click the \"Customize Job Titles\" button to add, remove, or modify job titles for your search.",
+    step2: "2. Browse Categories:",
+    step2Details: "Explore different search categories below, each containing specialized search queries for finding job opportunities.",
+    step3: "3. Execute Searches:",
+    step3Details: "Click any \"Execute Search\" button to open the search query in a new tab on Google. Each search is optimized for finding specific types of job listings.",
+    step4: "4. Activate Searches:",
+    step4Details: "Add at least one job title to activate the searches. All search queries will automatically update based on your provided job titles, ensuring personalized results.",
+    addNewTitle: "Add new job title...",
+    add: "Add",
+    suggestedTitles: "Suggested titles:",
+    madeWith: "Made with",
+    by: "by",
+    allSearchesFrom: "All search queries are courtesy of",
+
+    // Categories
+    categories: {
+      "Essential Searches": "Essential Searches",
+      "Remote Work": "Remote Work",
+      "Major Job Platforms": "Major Job Platforms",
+      "Tech Industry": "Tech Industry",
+      "Finance & Consulting": "Finance & Consulting",
+      "Healthcare & Pharma": "Healthcare & Pharma",
+      "Creative & Design": "Creative & Design",
+      "Alternative Sources": "Alternative Sources"
+    },
+
+    // Search Titles
+    searches: {
+      "Basic Job Search": "Basic Job Search",
+      "Detailed Job Search": "Detailed Job Search",
+      "Recent Job Openings": "Recent Job Openings",
+      "Remote Jobs": "Remote Jobs",
+      "US Remote Jobs": "US Remote Jobs",
+      "Greenhouse Jobs": "Greenhouse Jobs",
+      "Lever Jobs": "Lever Jobs",
+      "Ashby Jobs": "Ashby Jobs",
+      "Top Tech Companies": "Top Tech Companies",
+      "Tech Startups": "Tech Startups",
+      "Web3 & Crypto": "Web3 & Crypto",
+      "Big 4 Consulting": "Big 4 Consulting",
+      "Top Consulting": "Top Consulting",
+      "Investment Banking": "Investment Banking",
+      "FinTech": "FinTech",
+      "Top Pharma": "Top Pharma",
+      "Clinical Research": "Clinical Research",
+      "Creative Agencies": "Creative Agencies",
+      "UX/UI Design": "UX/UI Design",
+      ".CO Domain Jobs": ".CO Domain Jobs",
+      ".IO Domain Jobs": ".IO Domain Jobs",
+      "Non-Standard Domains": "Non-Standard Domains"
+    }
+  },
+  uk: {
+    title: "Центр Пошуку Роботи",
+    subtitle: "Від професіоналів з рекрутингу для шукачів роботи",
+    howToUse: "Як Користуватися Інструментом",
+    disclaimer: "Всі пошуки виконуються через Google Search. Цей проект не пов'язаний з Google.",
+    customizeSearchTitles: "Налаштувати Посади",
+    executeSearch: "Виконати Пошук",
+    step1: "1. Налаштування Посад:",
+    step1Details: "Натисніть кнопку \"Налаштувати Посади\" щоб додати, видалити або змінити назви посад для пошуку.",
+    step2: "2. Перегляд Категорій:",
+    step2Details: "Досліджуйте різні категорії пошуку нижче, кожна з яких містить спеціалізовані запити для пошуку вакансій.",
+    step3: "3. Виконання Пошуку:",
+    step3Details: "Натисніть будь-яку кнопку \"Виконати Пошук\" щоб відкрити пошуковий запит у новій вкладці Google. Кожен пошук оптимізовано для знаходження конкретних типів вакансій.",
+    step4: "4. Активація Пошуків:",
+    step4Details: "Додайте хоча б одну посаду, щоб активувати пошуки. Всі пошукові запити автоматично оновлюються на основі ваших посад, забезпечуючи персоналізовані результати.",
+    addNewTitle: "Додати нову посаду...",
+    add: "Додати",
+    suggestedTitles: "Рекомендовані посади:",
+    madeWith: "Зроблено з",
+    by: "від",
+    allSearchesFrom: "Всі пошукові запити надані",
+
+    // Categories
+    categories: {
+      "Essential Searches": "Основні Пошуки",
+      "Remote Work": "Віддалена Робота",
+      "Major Job Platforms": "Основні Платформи",
+      "Tech Industry": "IT Індустрія",
+      "Finance & Consulting": "Фінанси та Консалтинг",
+      "Healthcare & Pharma": "Охорона Здоров'я",
+      "Creative & Design": "Креатив та Дизайн",
+      "Alternative Sources": "Альтернативні Джерела"
+    },
+
+    // Search Titles
+    searches: {
+      "Basic Job Search": "Базовий Пошук",
+      "Detailed Job Search": "Детальний Пошук",
+      "Recent Job Openings": "Нові Вакансії",
+      "Remote Jobs": "Віддалена Робота",
+      "US Remote Jobs": "Віддалена Робота в США",
+      "Greenhouse Jobs": "Вакансії Greenhouse",
+      "Lever Jobs": "Вакансії Lever",
+      "Ashby Jobs": "Вакансії Ashby",
+      "Top Tech Companies": "Топові IT Компанії",
+      "Tech Startups": "IT Стартапи",
+      "Web3 & Crypto": "Web3 та Криптовалюти",
+      "Big 4 Consulting": "Big 4 Консалтинг",
+      "Top Consulting": "Топовий Консалтинг",
+      "Investment Banking": "Інвестиційний Банкінг",
+      "FinTech": "ФінТех",
+      "Top Pharma": "Топові Фармкомпанії",
+      "Clinical Research": "Клінічні Дослідження",
+      "Creative Agencies": "Креативні Агентства",
+      "UX/UI Design": "UX/UI Дизайн",
+      ".CO Domain Jobs": "Вакансії .CO Доменів",
+      ".IO Domain Jobs": "Вакансії .IO Доменів",
+      "Non-Standard Domains": "Нестандартні Домени"
+    }
+  }
+};
